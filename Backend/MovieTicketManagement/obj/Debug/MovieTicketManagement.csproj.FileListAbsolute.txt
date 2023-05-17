@@ -1,0 +1,240 @@
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\MovieTicketManagement.dll.config
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\MovieTicketManagement.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\MovieTicketManagement.pdb
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\BLL.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\System.Web.Http.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\DAL.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\AutoMapper.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\BLL.pdb
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\System.Web.Http.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\DAL.pdb
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\DAL.dll.config
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\bin\AutoMapper.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.CopyComplete
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\obj\Debug\MovieTicketManagement.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\MovieTicketManagement\obj\Debug\MovieTicketManagement.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\MovieTicketManagement.dll.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\MovieTicketManagement.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\MovieTicketManagement.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\BLL.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\AutoMapper.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\DAL.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\BLL.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\AutoMapper.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\DAL.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\DAL.dll.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.CopyComplete
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\obj\Debug\MovieTicketManagement.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\obj\Debug\MovieTicketManagement.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Cors.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Http.Cors.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\MovieTicketManagement\bin\System.Web.Http.Cors.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\MovieTicketManagement.dll.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\MovieTicketManagement.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\MovieTicketManagement.pdb
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\BLL.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Cors.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Http.Cors.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\AutoMapper.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\DAL.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\BLL.pdb
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Http.Cors.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\AutoMapper.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\DAL.pdb
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\bin\DAL.dll.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\obj\Debug\MovieTicketManagement.csproj.CopyComplete
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\obj\Debug\MovieTicketManagement.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\MovieTicketManagement\obj\Debug\MovieTicketManagement.pdb

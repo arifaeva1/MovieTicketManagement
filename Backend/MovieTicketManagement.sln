@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTicketManagement", "MovieTicketManagement\MovieTicketManagement.csproj", "{E788F934-796B-4C6C-B1F1-B8BC013253B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{ADF470EF-18C5-4B1E-BF5E-A19F2754891D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B4B42EA7-3349-482D-8102-8C37563D0B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E788F934-796B-4C6C-B1F1-B8BC013253B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E788F934-796B-4C6C-B1F1-B8BC013253B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E788F934-796B-4C6C-B1F1-B8BC013253B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E788F934-796B-4C6C-B1F1-B8BC013253B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF470EF-18C5-4B1E-BF5E-A19F2754891D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF470EF-18C5-4B1E-BF5E-A19F2754891D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF470EF-18C5-4B1E-BF5E-A19F2754891D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF470EF-18C5-4B1E-BF5E-A19F2754891D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B42EA7-3349-482D-8102-8C37563D0B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B42EA7-3349-482D-8102-8C37563D0B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B42EA7-3349-482D-8102-8C37563D0B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B42EA7-3349-482D-8102-8C37563D0B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DCC4C76-72FF-460A-956A-204B129D4EB4}
+	EndGlobalSection
+EndGlobal

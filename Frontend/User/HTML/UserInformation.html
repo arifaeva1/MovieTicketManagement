@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>User Information</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../CSS/UserInformation.css">
+
+</head>
+<body ng-app="my-app">
+  <div class="container" ng-controller="UserInfoCtrl">
+    <h2>All Users Information</h2>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>UserId</th>
+          <th>UserName</th>
+          <th>UserEmail</th>
+          <th>UserAddress</th>
+          <th>UserPhone</th>
+          <th>UserGender</th>
+          <th>UserPassword</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="p in userinfo">
+          <td>{{p.UserId}}</td>
+          <td>{{p.UserName}}</td>
+          <td>{{p.UserEmail}}</td>
+          <td>{{p.UserAddress}}</td>
+          <td>{{p.UserPhone}}</td>
+          <td>{{p.UserGender}}</td>
+          <td>{{p.UserPassword}}</td>
+          <td>{{p.Type}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <script>
+    var app = angular.module("my-app", []);
+
+    app.controller('UserInfoCtrl', function($scope, $http) {
+      $http.get("https://localhost:44352/api/users").then(function(resp) {
+        $scope.userinfo = resp.data;
+      }, function(err) {
+        console.log(err);
+      });
+    });
+  </script>
+</body>
+</html>

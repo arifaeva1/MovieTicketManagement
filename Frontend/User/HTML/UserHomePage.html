@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/UserProfile.css">
+    <title>User Home Page</title>
+ 
+</head>
+<body>
+    <div class="container">
+        <h1>User Dashboard</h1>
+        <!-- <a href="UserProfile.html" class="btn">View Profile</a> -->
+        <a href="UserInformation.html" class="btn">View All USERS</a>
+        <a href="TicketHistory.html" class="btn">View Ticket History</a>
+    </div>
+
+    <div class="profile-container">
+        <h2>User Profile</h2>
+        <div class="profile-item">
+            <span class="profile-label">User ID:</span>
+            <span class="profile-value" id="user-id"></span>
+        </div>
+        <div class="profile-item">
+            <span class="profile-label">User Name:</span>
+            <span class="profile-value" id="user-name"></span>
+        </div>
+        <div class="profile-item">
+            <span class="profile-label">Email:</span>
+            <span class="profile-value" id="user-email"></span>
+        </div>
+        <div class="profile-item">
+            <span class="profile-label">Address:</span>
+            <span class="profile-value" id="user-address"></span>
+        </div>
+        <div class="profile-item">
+            <span class="profile-label">Phone:</span>
+            <span class="profile-value" id="user-phone"></span>
+        </div>
+        <!-- Add more profile fields as needed -->
+    </div>
+
+    <script>
+        // Retrieve the userId from the URL query parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const userId = urlParams.get('userId');
+
+        // Use the userId to fetch related data from the API
+        const apiUrl = `https://localhost:44352/api/user/${userId}`;
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                // Populate the user profile fields
+                document.getElementById('user-id').textContent = data.UserId;
+                document.getElementById('user-name').textContent = data.UserName;
+                document.getElementById('user-email').textContent = data.UserEmail;
+                document.getElementById('user-address').textContent = data.UserAddress;
+                document.getElementById('user-phone').textContent = data.UserPhone;
+                // Add more field assignments as needed
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                // Handle the error scenario
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>User Information</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../CSS/UserInformation.css">
+
+</head>
+<body ng-app="my-app">
+  <div class="container" ng-controller="UserInfoCtrl">
+    <h2>Ticket  History</h2>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>History Id</th>
+          <th>History Status</th>
+          <th>Total Amount</th>
+          <th>User ID</th>
+          <th>Ticket ID</th>
+          
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="p in userinfo">
+          <td>{{p.HistoryId}}</td>
+          <td>{{p.HistoryStatus}}</td>
+          <td>{{p.TotalAmount}}</td>
+          <td>{{p.UserId}}</td>
+          <td>{{p.TicketId}}</td>
+          
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <script>
+    var app = angular.module("my-app", []);
+
+    app.controller('UserInfoCtrl', function($scope, $http) {
+      $http.get("https://localhost:44352/api/history").then(function(resp) {
+        $scope.userinfo = resp.data;
+        console.log(resp.data);
+        console.log("Ok ");
+      }, function(err) {
+        console.log(err);
+      });
+    });
+  </script>
+</body>
+</html>

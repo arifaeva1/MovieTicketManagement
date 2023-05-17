@@ -1,0 +1,56 @@
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.Migrations.initDB1.resources
+C:\Users\Asus\source\repos\MovieTicketManagement\DAL\obj\Debug\DAL.Migrations.initDB2.resources
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.Migrations.initDB1.resources
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.Migrations.initDB2.resources
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.Migrations.initDB3.resources
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.Migrations.initDB4.resources
+C:\Users\Asus\Desktop\Dot Net\User_Crud\User_Crud\DAL\obj\Debug\DAL.Migrations.initDB5.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB1.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB2.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB3.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB4.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB5.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB6.resources
+C:\Users\Asus\Desktop\MovieTicketManagement\Backend\DAL\obj\Debug\DAL.Migrations.initDB7.resources
